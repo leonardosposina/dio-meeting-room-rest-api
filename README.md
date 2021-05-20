@@ -2,8 +2,6 @@
 
 ## Meeting Room REST API
 
-### 🖱 [Clique aqui para ver online.][meeting-room-rest-api]
-
 ---
 
 ### 📑 Instruções
@@ -48,5 +46,3 @@ http://localhost:8080/api/v1/rooms
 
 - [Documentação oficial do Lombok](https://projectlombok.org/)
 - [Referência para o padrão arquitetural REST](https://restfulapi.net/)
-
-[meeting-room-rest-api]:https://dio-rooms-api.herokuapp.com/api/v1/rooms
